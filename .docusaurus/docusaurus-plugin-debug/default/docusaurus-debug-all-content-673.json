@@ -1,0 +1,295 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/ronnie.gandhi/Documents/APCMGKQ/PitchPage/sidebars.js",
+          "contentPath": "/Users/ronnie.gandhi/Documents/APCMGKQ/PitchPage/docs",
+          "contentPathLocalized": "/Users/ronnie.gandhi/Documents/APCMGKQ/PitchPage/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "concept/loop",
+              "id": "concept/loop",
+              "title": "Irreplaceable Loop",
+              "description": "⏱️ 5-Second Loop:",
+              "source": "@site/docs/concept/loop.md",
+              "sourceDirName": "concept",
+              "slug": "/concept/loop",
+              "permalink": "/concept/loop",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "GTM Strategy",
+                "permalink": "/go-to-market/strategy"
+              }
+            },
+            {
+              "unversionedId": "go-to-market/strategy",
+              "id": "go-to-market/strategy",
+              "title": "GTM Strategy",
+              "description": "Phase 1: Creator-First",
+              "source": "@site/docs/go-to-market/strategy.md",
+              "sourceDirName": "go-to-market",
+              "slug": "/go-to-market/strategy",
+              "permalink": "/go-to-market/strategy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Irreplaceable Loop",
+                "permalink": "/concept/loop"
+              },
+              "next": {
+                "title": "Revenue Streams",
+                "permalink": "/monetization/"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "next": {
+                "title": "Irreplaceable Loop",
+                "permalink": "/concept/loop"
+              }
+            },
+            {
+              "unversionedId": "monetization/index",
+              "id": "monetization/index",
+              "title": "Revenue Streams",
+              "description": "1. Creator Brand Deal Cuts",
+              "source": "@site/docs/monetization/index.md",
+              "sourceDirName": "monetization",
+              "slug": "/monetization/",
+              "permalink": "/monetization/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "GTM Strategy",
+                "permalink": "/go-to-market/strategy"
+              },
+              "next": {
+                "title": "Why Me",
+                "permalink": "/pitch/founder"
+              }
+            },
+            {
+              "unversionedId": "pitch/founder",
+              "id": "pitch/founder",
+              "title": "Why Me",
+              "description": "- 🏫 IIT Roorkee – BTech CSE",
+              "source": "@site/docs/pitch/founder.md",
+              "sourceDirName": "pitch",
+              "slug": "/pitch/founder",
+              "permalink": "/pitch/founder",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Revenue Streams",
+                "permalink": "/monetization/"
+              },
+              "next": {
+                "title": "Anchor + Clone Logic",
+                "permalink": "/product/cloning"
+              }
+            },
+            {
+              "unversionedId": "product/cloning",
+              "id": "product/cloning",
+              "title": "Anchor + Clone Logic",
+              "description": "- Posts are anchored where created",
+              "source": "@site/docs/product/cloning.md",
+              "sourceDirName": "product",
+              "slug": "/product/cloning",
+              "permalink": "/product/cloning",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Why Me",
+                "permalink": "/pitch/founder"
+              },
+              "next": {
+                "title": "Kaiserectt Engine",
+                "permalink": "/tech/"
+              }
+            },
+            {
+              "unversionedId": "tech/architecture",
+              "id": "tech/architecture",
+              "title": "4 Pillars",
+              "description": "1. Spatial Computing",
+              "source": "@site/docs/tech/architecture.md",
+              "sourceDirName": "tech",
+              "slug": "/tech/architecture",
+              "permalink": "/tech/architecture",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Kaiserectt Engine",
+                "permalink": "/tech/"
+              }
+            },
+            {
+              "unversionedId": "tech/index",
+              "id": "tech/index",
+              "title": "Kaiserectt Engine",
+              "description": "The Next Frontier of Reality",
+              "source": "@site/docs/tech/index.md",
+              "sourceDirName": "tech",
+              "slug": "/tech/",
+              "permalink": "/tech/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Anchor + Clone Logic",
+                "permalink": "/product/cloning"
+              },
+              "next": {
+                "title": "4 Pillars",
+                "permalink": "/tech/architecture"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "mainSidebar": [
+              {
+                "type": "doc",
+                "id": "index",
+                "label": "Introduction",
+                "translatable": true
+              },
+              {
+                "type": "category",
+                "label": "Concept",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "concept/loop"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Go To Market",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "go-to-market/strategy"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Monetization",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "monetization/index"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "About Founder",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "pitch/founder"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Product",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "product/cloning"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Tech",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tech/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tech/architecture"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

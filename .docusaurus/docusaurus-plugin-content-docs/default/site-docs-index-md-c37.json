@@ -1,0 +1,19 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Welcome to HaloH",
+  "description": "The Perception Layer of Reality",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "Irreplaceable Loop",
+    "permalink": "/concept/loop"
+  }
+}

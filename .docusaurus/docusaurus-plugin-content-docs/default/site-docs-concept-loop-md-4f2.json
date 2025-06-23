@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept/loop",
+  "id": "concept/loop",
+  "title": "Irreplaceable Loop",
+  "description": "⏱️ 5-Second Loop:",
+  "source": "@site/docs/concept/loop.md",
+  "sourceDirName": "concept",
+  "slug": "/concept/loop",
+  "permalink": "/concept/loop",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Welcome to HaloH",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "GTM Strategy",
+    "permalink": "/go-to-market/strategy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "monetization/index",
+  "id": "monetization/index",
+  "title": "Revenue Streams",
+  "description": "1. Creator Brand Deal Cuts",
+  "source": "@site/docs/monetization/index.md",
+  "sourceDirName": "monetization",
+  "slug": "/monetization/",
+  "permalink": "/monetization/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "GTM Strategy",
+    "permalink": "/go-to-market/strategy"
+  },
+  "next": {
+    "title": "Why Me",
+    "permalink": "/pitch/founder"
+  }
+}

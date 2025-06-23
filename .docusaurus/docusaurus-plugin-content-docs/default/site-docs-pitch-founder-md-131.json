@@ -1,0 +1,23 @@
+{
+  "unversionedId": "pitch/founder",
+  "id": "pitch/founder",
+  "title": "Why Me",
+  "description": "- 🏫 IIT Roorkee – BTech CSE",
+  "source": "@site/docs/pitch/founder.md",
+  "sourceDirName": "pitch",
+  "slug": "/pitch/founder",
+  "permalink": "/pitch/founder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Revenue Streams",
+    "permalink": "/monetization/"
+  },
+  "next": {
+    "title": "Anchor + Clone Logic",
+    "permalink": "/product/cloning"
+  }
+}

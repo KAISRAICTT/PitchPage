@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tech/architecture",
+  "id": "tech/architecture",
+  "title": "4 Pillars",
+  "description": "1. Spatial Computing",
+  "source": "@site/docs/tech/architecture.md",
+  "sourceDirName": "tech",
+  "slug": "/tech/architecture",
+  "permalink": "/tech/architecture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Kaiserectt Engine",
+    "permalink": "/tech/"
+  }
+}

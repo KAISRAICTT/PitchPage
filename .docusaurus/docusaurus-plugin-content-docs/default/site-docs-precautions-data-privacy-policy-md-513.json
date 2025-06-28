@@ -1,0 +1,23 @@
+{
+  "unversionedId": "precautions/data-privacy-policy",
+  "id": "precautions/data-privacy-policy",
+  "title": "data-privacy-policy",
+  "description": "",
+  "source": "@site/docs/precautions/data-privacy-policy.md",
+  "sourceDirName": "precautions",
+  "slug": "/precautions/data-privacy-policy",
+  "permalink": "/precautions/data-privacy-policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "no-gimmick-policy",
+    "permalink": "/precautions/no-gimmick-policy"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/competition/"
+  }
+}

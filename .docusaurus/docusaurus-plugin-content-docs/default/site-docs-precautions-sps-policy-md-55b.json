@@ -1,0 +1,23 @@
+{
+  "unversionedId": "precautions/sps-policy",
+  "id": "precautions/sps-policy",
+  "title": "sps-policy",
+  "description": "",
+  "source": "@site/docs/precautions/sps-policy.md",
+  "sourceDirName": "precautions",
+  "slug": "/precautions/sps-policy",
+  "permalink": "/precautions/sps-policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "content-moderation-policy",
+    "permalink": "/precautions/content-moderation-policy"
+  },
+  "next": {
+    "title": "no-gimmick-policy",
+    "permalink": "/precautions/no-gimmick-policy"
+  }
+}

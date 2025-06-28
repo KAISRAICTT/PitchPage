@@ -1,0 +1,23 @@
+{
+  "unversionedId": "psychology/no-gimmick-policy",
+  "id": "psychology/no-gimmick-policy",
+  "title": "no-gimmick-policy",
+  "description": "",
+  "source": "@site/docs/psychology/no-gimmick-policy.md",
+  "sourceDirName": "psychology",
+  "slug": "/psychology/no-gimmick-policy",
+  "permalink": "/psychology/no-gimmick-policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "hook-like-slot-machine",
+    "permalink": "/psychology/hook-like-slot-machine"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/business/"
+  }
+}

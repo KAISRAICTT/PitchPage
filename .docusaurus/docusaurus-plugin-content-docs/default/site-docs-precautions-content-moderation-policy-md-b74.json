@@ -1,0 +1,23 @@
+{
+  "unversionedId": "precautions/content-moderation-policy",
+  "id": "precautions/content-moderation-policy",
+  "title": "content-moderation-policy",
+  "description": "",
+  "source": "@site/docs/precautions/content-moderation-policy.md",
+  "sourceDirName": "precautions",
+  "slug": "/precautions/content-moderation-policy",
+  "permalink": "/precautions/content-moderation-policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/precautions/"
+  },
+  "next": {
+    "title": "sps-policy",
+    "permalink": "/precautions/sps-policy"
+  }
+}

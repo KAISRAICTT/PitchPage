@@ -1,0 +1,23 @@
+{
+  "unversionedId": "precautions/no-gimmick-policy",
+  "id": "precautions/no-gimmick-policy",
+  "title": "no-gimmick-policy",
+  "description": "",
+  "source": "@site/docs/precautions/no-gimmick-policy.md",
+  "sourceDirName": "precautions",
+  "slug": "/precautions/no-gimmick-policy",
+  "permalink": "/precautions/no-gimmick-policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "sps-policy",
+    "permalink": "/precautions/sps-policy"
+  },
+  "next": {
+    "title": "data-privacy-policy",
+    "permalink": "/precautions/data-privacy-policy"
+  }
+}

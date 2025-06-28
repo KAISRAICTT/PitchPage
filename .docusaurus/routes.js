@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '452'),
+    component: ComponentCreator('/', 'ea9'),
     routes: [
       {
         path: '/',
@@ -281,6 +281,36 @@ export default [
         exact: true
       },
       {
+        path: '/precautions/',
+        component: ComponentCreator('/precautions/', '448'),
+        exact: true,
+        sidebar: "mainSidebar"
+      },
+      {
+        path: '/precautions/content-moderation-policy',
+        component: ComponentCreator('/precautions/content-moderation-policy', 'abd'),
+        exact: true,
+        sidebar: "mainSidebar"
+      },
+      {
+        path: '/precautions/data-privacy-policy',
+        component: ComponentCreator('/precautions/data-privacy-policy', '5df'),
+        exact: true,
+        sidebar: "mainSidebar"
+      },
+      {
+        path: '/precautions/no-gimmick-policy',
+        component: ComponentCreator('/precautions/no-gimmick-policy', '3c4'),
+        exact: true,
+        sidebar: "mainSidebar"
+      },
+      {
+        path: '/precautions/sps-policy',
+        component: ComponentCreator('/precautions/sps-policy', '79b'),
+        exact: true,
+        sidebar: "mainSidebar"
+      },
+      {
         path: '/psychology/',
         component: ComponentCreator('/psychology/', 'da1'),
         exact: true,
@@ -295,6 +325,12 @@ export default [
       {
         path: '/psychology/hook-like-slot-machine',
         component: ComponentCreator('/psychology/hook-like-slot-machine', 'efb'),
+        exact: true,
+        sidebar: "mainSidebar"
+      },
+      {
+        path: '/psychology/no-gimmick-policy',
+        component: ComponentCreator('/psychology/no-gimmick-policy', 'c31'),
         exact: true,
         sidebar: "mainSidebar"
       },

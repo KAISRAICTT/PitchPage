@@ -167,6 +167,12 @@
             "label": "hook-like-slot-machine",
             "href": "/psychology/hook-like-slot-machine",
             "docId": "psychology/hook-like-slot-machine"
+          },
+          {
+            "type": "link",
+            "label": "no-gimmick-policy",
+            "href": "/psychology/no-gimmick-policy",
+            "docId": "psychology/no-gimmick-policy"
           }
         ],
         "collapsed": true,
@@ -265,6 +271,39 @@
         "collapsed": true,
         "collapsible": true,
         "href": "/business/"
+      },
+      {
+        "type": "category",
+        "label": "Precautions",
+        "items": [
+          {
+            "type": "link",
+            "label": "content-moderation-policy",
+            "href": "/precautions/content-moderation-policy",
+            "docId": "precautions/content-moderation-policy"
+          },
+          {
+            "type": "link",
+            "label": "sps-policy",
+            "href": "/precautions/sps-policy",
+            "docId": "precautions/sps-policy"
+          },
+          {
+            "type": "link",
+            "label": "no-gimmick-policy",
+            "href": "/precautions/no-gimmick-policy",
+            "docId": "precautions/no-gimmick-policy"
+          },
+          {
+            "type": "link",
+            "label": "data-privacy-policy",
+            "href": "/precautions/data-privacy-policy",
+            "docId": "precautions/data-privacy-policy"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/precautions/"
       },
       {
         "type": "category",
@@ -553,6 +592,36 @@
       "description": "The Perception Layer of Reality",
       "sidebar": "mainSidebar"
     },
+    "precautions/content-moderation-policy": {
+      "id": "precautions/content-moderation-policy",
+      "title": "content-moderation-policy",
+      "description": "",
+      "sidebar": "mainSidebar"
+    },
+    "precautions/data-privacy-policy": {
+      "id": "precautions/data-privacy-policy",
+      "title": "data-privacy-policy",
+      "description": "",
+      "sidebar": "mainSidebar"
+    },
+    "precautions/index": {
+      "id": "precautions/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "mainSidebar"
+    },
+    "precautions/no-gimmick-policy": {
+      "id": "precautions/no-gimmick-policy",
+      "title": "no-gimmick-policy",
+      "description": "",
+      "sidebar": "mainSidebar"
+    },
+    "precautions/sps-policy": {
+      "id": "precautions/sps-policy",
+      "title": "sps-policy",
+      "description": "",
+      "sidebar": "mainSidebar"
+    },
     "psychology/habit-loop": {
       "id": "psychology/habit-loop",
       "title": "habit-loop",
@@ -568,6 +637,12 @@
     "psychology/index": {
       "id": "psychology/index",
       "title": "index",
+      "description": "",
+      "sidebar": "mainSidebar"
+    },
+    "psychology/no-gimmick-policy": {
+      "id": "psychology/no-gimmick-policy",
+      "title": "no-gimmick-policy",
       "description": "",
       "sidebar": "mainSidebar"
     },

@@ -209,6 +209,31 @@
               "sidebar": "mainSidebar"
             },
             {
+              "id": "precautions/content-moderation-policy",
+              "path": "/precautions/content-moderation-policy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "precautions/data-privacy-policy",
+              "path": "/precautions/data-privacy-policy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "precautions/index",
+              "path": "/precautions/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "precautions/no-gimmick-policy",
+              "path": "/precautions/no-gimmick-policy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "precautions/sps-policy",
+              "path": "/precautions/sps-policy",
+              "sidebar": "mainSidebar"
+            },
+            {
               "id": "psychology/habit-loop",
               "path": "/psychology/habit-loop",
               "sidebar": "mainSidebar"
@@ -221,6 +246,11 @@
             {
               "id": "psychology/index",
               "path": "/psychology/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "psychology/no-gimmick-policy",
+              "path": "/psychology/no-gimmick-policy",
               "sidebar": "mainSidebar"
             },
             {

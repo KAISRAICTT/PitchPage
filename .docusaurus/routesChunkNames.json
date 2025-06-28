@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debug-247-efa"
     }
   },
-  "/-452": {
+  "/-ea9": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---96-a-b23"
@@ -213,6 +213,26 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---extras-tech-architecture-81-e-0b7"
   },
+  "/precautions/-448": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---precautions-629-c88"
+  },
+  "/precautions/content-moderation-policy-abd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---precautions-content-moderation-policyb-74-2c7"
+  },
+  "/precautions/data-privacy-policy-5df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---precautions-data-privacy-policy-513-ef2"
+  },
+  "/precautions/no-gimmick-policy-3c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---precautions-no-gimmick-policy-4-bd-2c8"
+  },
+  "/precautions/sps-policy-79b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---precautions-sps-policy-55-b-92e"
+  },
   "/psychology/-da1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---psychology-5-d-4-fa9"
@@ -224,6 +244,10 @@
   "/psychology/hook-like-slot-machine-efb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---psychology-hook-like-slot-machineec-1-154"
+  },
+  "/psychology/no-gimmick-policy-c31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---psychology-no-gimmick-policy-8-c-2-707"
   },
   "/psychology/why-tiktok-works-9e1": {
     "__comp": "__comp---theme-doc-item-178-a40",

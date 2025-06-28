@@ -37,7 +37,7 @@
               },
               "next": {
                 "title": "index",
-                "permalink": "/competition/"
+                "permalink": "/precautions/"
               }
             },
             {
@@ -170,8 +170,8 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "hook-like-slot-machine",
-                "permalink": "/psychology/hook-like-slot-machine"
+                "title": "no-gimmick-policy",
+                "permalink": "/psychology/no-gimmick-policy"
               },
               "next": {
                 "title": "tam",
@@ -419,8 +419,8 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "final",
-                "permalink": "/business/gtm/final"
+                "title": "data-privacy-policy",
+                "permalink": "/precautions/data-privacy-policy"
               },
               "next": {
                 "title": "meta",
@@ -890,6 +890,121 @@
               }
             },
             {
+              "unversionedId": "precautions/content-moderation-policy",
+              "id": "precautions/content-moderation-policy",
+              "title": "content-moderation-policy",
+              "description": "",
+              "source": "@site/docs/precautions/content-moderation-policy.md",
+              "sourceDirName": "precautions",
+              "slug": "/precautions/content-moderation-policy",
+              "permalink": "/precautions/content-moderation-policy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/precautions/"
+              },
+              "next": {
+                "title": "sps-policy",
+                "permalink": "/precautions/sps-policy"
+              }
+            },
+            {
+              "unversionedId": "precautions/data-privacy-policy",
+              "id": "precautions/data-privacy-policy",
+              "title": "data-privacy-policy",
+              "description": "",
+              "source": "@site/docs/precautions/data-privacy-policy.md",
+              "sourceDirName": "precautions",
+              "slug": "/precautions/data-privacy-policy",
+              "permalink": "/precautions/data-privacy-policy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "no-gimmick-policy",
+                "permalink": "/precautions/no-gimmick-policy"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/competition/"
+              }
+            },
+            {
+              "unversionedId": "precautions/index",
+              "id": "precautions/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/precautions/index.md",
+              "sourceDirName": "precautions",
+              "slug": "/precautions/",
+              "permalink": "/precautions/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "final",
+                "permalink": "/business/gtm/final"
+              },
+              "next": {
+                "title": "content-moderation-policy",
+                "permalink": "/precautions/content-moderation-policy"
+              }
+            },
+            {
+              "unversionedId": "precautions/no-gimmick-policy",
+              "id": "precautions/no-gimmick-policy",
+              "title": "no-gimmick-policy",
+              "description": "",
+              "source": "@site/docs/precautions/no-gimmick-policy.md",
+              "sourceDirName": "precautions",
+              "slug": "/precautions/no-gimmick-policy",
+              "permalink": "/precautions/no-gimmick-policy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "sps-policy",
+                "permalink": "/precautions/sps-policy"
+              },
+              "next": {
+                "title": "data-privacy-policy",
+                "permalink": "/precautions/data-privacy-policy"
+              }
+            },
+            {
+              "unversionedId": "precautions/sps-policy",
+              "id": "precautions/sps-policy",
+              "title": "sps-policy",
+              "description": "",
+              "source": "@site/docs/precautions/sps-policy.md",
+              "sourceDirName": "precautions",
+              "slug": "/precautions/sps-policy",
+              "permalink": "/precautions/sps-policy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "content-moderation-policy",
+                "permalink": "/precautions/content-moderation-policy"
+              },
+              "next": {
+                "title": "no-gimmick-policy",
+                "permalink": "/precautions/no-gimmick-policy"
+              }
+            },
+            {
               "unversionedId": "psychology/habit-loop",
               "id": "psychology/habit-loop",
               "title": "habit-loop",
@@ -931,8 +1046,8 @@
                 "permalink": "/psychology/why-tiktok-works"
               },
               "next": {
-                "title": "index",
-                "permalink": "/business/"
+                "title": "no-gimmick-policy",
+                "permalink": "/psychology/no-gimmick-policy"
               }
             },
             {
@@ -956,6 +1071,29 @@
               "next": {
                 "title": "habit-loop",
                 "permalink": "/psychology/habit-loop"
+              }
+            },
+            {
+              "unversionedId": "psychology/no-gimmick-policy",
+              "id": "psychology/no-gimmick-policy",
+              "title": "no-gimmick-policy",
+              "description": "",
+              "source": "@site/docs/psychology/no-gimmick-policy.md",
+              "sourceDirName": "psychology",
+              "slug": "/psychology/no-gimmick-policy",
+              "permalink": "/psychology/no-gimmick-policy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "hook-like-slot-machine",
+                "permalink": "/psychology/hook-like-slot-machine"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/business/"
               }
             },
             {
@@ -1279,6 +1417,10 @@
                   {
                     "type": "doc",
                     "id": "psychology/hook-like-slot-machine"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "psychology/no-gimmick-policy"
                   }
                 ],
                 "collapsed": true,
@@ -1359,6 +1501,34 @@
                     ],
                     "collapsed": true,
                     "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Precautions",
+                "link": {
+                  "type": "doc",
+                  "id": "precautions/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "precautions/content-moderation-policy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "precautions/sps-policy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "precautions/no-gimmick-policy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "precautions/data-privacy-policy"
                   }
                 ],
                 "collapsed": true,

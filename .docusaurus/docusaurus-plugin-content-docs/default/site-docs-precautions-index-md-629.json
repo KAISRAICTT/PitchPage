@@ -1,0 +1,23 @@
+{
+  "unversionedId": "precautions/index",
+  "id": "precautions/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/precautions/index.md",
+  "sourceDirName": "precautions",
+  "slug": "/precautions/",
+  "permalink": "/precautions/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "final",
+    "permalink": "/business/gtm/final"
+  },
+  "next": {
+    "title": "content-moderation-policy",
+    "permalink": "/precautions/content-moderation-policy"
+  }
+}

@@ -93,6 +93,17 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Precautions',
+      link: { type: 'doc', id: 'precautions/index' },
+      items: [
+        'precautions/content-moderation-policy',
+        'precautions/sps-policy',
+        'precautions/no-gimmick-policy',
+        'precautions/data-privacy-policy',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Competition',
       link: { type: 'doc', id: 'competition/index' },
       items: [

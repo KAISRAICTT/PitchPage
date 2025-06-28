@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'Pitch Page Documentation',
-  tagline: 'Comprehensive documentation for the Pitch Page project',
+  title: 'HaloH Detailed Pitch',
+  tagline: 'Comprehensive documentation for the HaloH project',
   url: 'https://ronnie-gandhi.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ronnie-gandhi',
-  projectName: 'PitchPage',
+  projectName: 'HaloH',
   themeConfig: {
     navbar: {
       items: [
@@ -15,7 +15,7 @@ module.exports = {
           type: 'docSidebar',
           sidebarId: 'mainSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'HaloH',
         },
       ]
     },

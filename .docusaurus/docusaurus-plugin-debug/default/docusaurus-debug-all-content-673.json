@@ -499,8 +499,8 @@
             {
               "unversionedId": "concept/features/aichat",
               "id": "concept/features/aichat",
-              "title": "Welcome to HaloH",
-              "description": "The Perception Layer of Reality",
+              "title": "aichat",
+              "description": "",
               "source": "@site/docs/concept/features/aichat.md",
               "sourceDirName": "concept/features",
               "slug": "/concept/features/aichat",
@@ -511,19 +511,19 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Welcome to HaloH",
+                "title": "explore",
                 "permalink": "/concept/features/explore"
               },
               "next": {
-                "title": "Welcome to HaloH",
+                "title": "impact",
                 "permalink": "/concept/impact"
               }
             },
             {
               "unversionedId": "concept/features/clone",
               "id": "concept/features/clone",
-              "title": "Welcome to HaloH",
-              "description": "The Perception Layer of Reality",
+              "title": "clone",
+              "description": "",
               "source": "@site/docs/concept/features/clone.md",
               "sourceDirName": "concept/features",
               "slug": "/concept/features/clone",
@@ -534,19 +534,19 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Welcome to HaloH",
+                "title": "post",
                 "permalink": "/concept/features/post"
               },
               "next": {
-                "title": "Welcome to HaloH",
+                "title": "explore",
                 "permalink": "/concept/features/explore"
               }
             },
             {
               "unversionedId": "concept/features/explore",
               "id": "concept/features/explore",
-              "title": "Welcome to HaloH",
-              "description": "The Perception Layer of Reality",
+              "title": "explore",
+              "description": "",
               "source": "@site/docs/concept/features/explore.md",
               "sourceDirName": "concept/features",
               "slug": "/concept/features/explore",
@@ -557,19 +557,19 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Welcome to HaloH",
+                "title": "clone",
                 "permalink": "/concept/features/clone"
               },
               "next": {
-                "title": "Welcome to HaloH",
+                "title": "aichat",
                 "permalink": "/concept/features/aichat"
               }
             },
             {
               "unversionedId": "concept/features/index",
               "id": "concept/features/index",
-              "title": "Welcome to HaloH",
-              "description": "The Perception Layer of Reality",
+              "title": "index",
+              "description": "",
               "source": "@site/docs/concept/features/index.md",
               "sourceDirName": "concept/features",
               "slug": "/concept/features/",
@@ -580,19 +580,19 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Welcome to HaloH",
+                "title": "what",
                 "permalink": "/concept/what"
               },
               "next": {
-                "title": "Welcome to HaloH",
+                "title": "post",
                 "permalink": "/concept/features/post"
               }
             },
             {
               "unversionedId": "concept/features/post",
               "id": "concept/features/post",
-              "title": "Welcome to HaloH",
-              "description": "The Perception Layer of Reality",
+              "title": "post",
+              "description": "",
               "source": "@site/docs/concept/features/post.md",
               "sourceDirName": "concept/features",
               "slug": "/concept/features/post",
@@ -603,19 +603,19 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Welcome to HaloH",
+                "title": "index",
                 "permalink": "/concept/features/"
               },
               "next": {
-                "title": "Welcome to HaloH",
+                "title": "clone",
                 "permalink": "/concept/features/clone"
               }
             },
             {
               "unversionedId": "concept/impact",
               "id": "concept/impact",
-              "title": "Welcome to HaloH",
-              "description": "The Perception Layer of Reality",
+              "title": "impact",
+              "description": "",
               "source": "@site/docs/concept/impact.md",
               "sourceDirName": "concept",
               "slug": "/concept/impact",
@@ -626,7 +626,7 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Welcome to HaloH",
+                "title": "aichat",
                 "permalink": "/concept/features/aichat"
               },
               "next": {
@@ -637,8 +637,8 @@
             {
               "unversionedId": "concept/what",
               "id": "concept/what",
-              "title": "Welcome to HaloH",
-              "description": "The Perception Layer of Reality",
+              "title": "what",
+              "description": "",
               "source": "@site/docs/concept/what.md",
               "sourceDirName": "concept",
               "slug": "/concept/what",
@@ -653,7 +653,7 @@
                 "permalink": "/"
               },
               "next": {
-                "title": "Welcome to HaloH",
+                "title": "index",
                 "permalink": "/concept/features/"
               }
             },
@@ -885,7 +885,7 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "next": {
-                "title": "Welcome to HaloH",
+                "title": "what",
                 "permalink": "/concept/what"
               }
             },
@@ -1019,7 +1019,7 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Welcome to HaloH",
+                "title": "impact",
                 "permalink": "/concept/impact"
               },
               "next": {

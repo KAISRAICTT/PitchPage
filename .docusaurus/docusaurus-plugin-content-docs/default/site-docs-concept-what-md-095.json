@@ -1,8 +1,8 @@
 {
   "unversionedId": "concept/what",
   "id": "concept/what",
-  "title": "Welcome to HaloH",
-  "description": "The Perception Layer of Reality",
+  "title": "what",
+  "description": "",
   "source": "@site/docs/concept/what.md",
   "sourceDirName": "concept",
   "slug": "/concept/what",
@@ -17,7 +17,7 @@
     "permalink": "/"
   },
   "next": {
-    "title": "Welcome to HaloH",
+    "title": "index",
     "permalink": "/concept/features/"
   }
 }

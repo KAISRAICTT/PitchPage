@@ -21,7 +21,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Welcome to HaloH",
+            "label": "what",
             "href": "/concept/what",
             "docId": "concept/what"
           },
@@ -31,25 +31,25 @@
             "items": [
               {
                 "type": "link",
-                "label": "Welcome to HaloH",
+                "label": "post",
                 "href": "/concept/features/post",
                 "docId": "concept/features/post"
               },
               {
                 "type": "link",
-                "label": "Welcome to HaloH",
+                "label": "clone",
                 "href": "/concept/features/clone",
                 "docId": "concept/features/clone"
               },
               {
                 "type": "link",
-                "label": "Welcome to HaloH",
+                "label": "explore",
                 "href": "/concept/features/explore",
                 "docId": "concept/features/explore"
               },
               {
                 "type": "link",
-                "label": "Welcome to HaloH",
+                "label": "aichat",
                 "href": "/concept/features/aichat",
                 "docId": "concept/features/aichat"
               }
@@ -60,7 +60,7 @@
           },
           {
             "type": "link",
-            "label": "Welcome to HaloH",
+            "label": "impact",
             "href": "/concept/impact",
             "docId": "concept/impact"
           }
@@ -442,44 +442,44 @@
     },
     "concept/features/aichat": {
       "id": "concept/features/aichat",
-      "title": "Welcome to HaloH",
-      "description": "The Perception Layer of Reality",
+      "title": "aichat",
+      "description": "",
       "sidebar": "mainSidebar"
     },
     "concept/features/clone": {
       "id": "concept/features/clone",
-      "title": "Welcome to HaloH",
-      "description": "The Perception Layer of Reality",
+      "title": "clone",
+      "description": "",
       "sidebar": "mainSidebar"
     },
     "concept/features/explore": {
       "id": "concept/features/explore",
-      "title": "Welcome to HaloH",
-      "description": "The Perception Layer of Reality",
+      "title": "explore",
+      "description": "",
       "sidebar": "mainSidebar"
     },
     "concept/features/index": {
       "id": "concept/features/index",
-      "title": "Welcome to HaloH",
-      "description": "The Perception Layer of Reality",
+      "title": "index",
+      "description": "",
       "sidebar": "mainSidebar"
     },
     "concept/features/post": {
       "id": "concept/features/post",
-      "title": "Welcome to HaloH",
-      "description": "The Perception Layer of Reality",
+      "title": "post",
+      "description": "",
       "sidebar": "mainSidebar"
     },
     "concept/impact": {
       "id": "concept/impact",
-      "title": "Welcome to HaloH",
-      "description": "The Perception Layer of Reality",
+      "title": "impact",
+      "description": "",
       "sidebar": "mainSidebar"
     },
     "concept/what": {
       "id": "concept/what",
-      "title": "Welcome to HaloH",
-      "description": "The Perception Layer of Reality",
+      "title": "what",
+      "description": "",
       "sidebar": "mainSidebar"
     },
     "core-technology/ar-anchoring": {

@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Pitch Page Documentation",
-  "tagline": "Comprehensive documentation for the Pitch Page project",
+  "title": "HaloH Detailed Pitch",
+  "tagline": "Comprehensive documentation for the HaloH project",
   "url": "https://ronnie-gandhi.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "ronnie-gandhi",
-  "projectName": "PitchPage",
+  "projectName": "HaloH",
   "themeConfig": {
     "navbar": {
       "items": [
@@ -20,7 +20,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "mainSidebar",
           "position": "left",
-          "label": "Docs"
+          "label": "HaloH"
         }
       ],
       "hideOnScroll": false

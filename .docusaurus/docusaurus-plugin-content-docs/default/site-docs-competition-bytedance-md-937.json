@@ -1,0 +1,23 @@
+{
+  "unversionedId": "competition/bytedance",
+  "id": "competition/bytedance",
+  "title": "bytedance",
+  "description": "",
+  "source": "@site/docs/competition/bytedance.md",
+  "sourceDirName": "competition",
+  "slug": "/competition/bytedance",
+  "permalink": "/competition/bytedance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "meta",
+    "permalink": "/competition/meta"
+  },
+  "next": {
+    "title": "snap",
+    "permalink": "/competition/snap"
+  }
+}

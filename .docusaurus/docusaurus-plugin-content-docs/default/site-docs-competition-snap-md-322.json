@@ -1,0 +1,23 @@
+{
+  "unversionedId": "competition/snap",
+  "id": "competition/snap",
+  "title": "snap",
+  "description": "",
+  "source": "@site/docs/competition/snap.md",
+  "sourceDirName": "competition",
+  "slug": "/competition/snap",
+  "permalink": "/competition/snap",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "bytedance",
+    "permalink": "/competition/bytedance"
+  },
+  "next": {
+    "title": "google",
+    "permalink": "/competition/google"
+  }
+}

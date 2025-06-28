@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why/why-for-consumers",
+  "id": "why/why-for-consumers",
+  "title": "why-for-consumers",
+  "description": "",
+  "source": "@site/docs/why/why-for-consumers.md",
+  "sourceDirName": "why",
+  "slug": "/why/why-for-consumers",
+  "permalink": "/why/why-for-consumers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "why-for-creators",
+    "permalink": "/why/why-for-creators"
+  },
+  "next": {
+    "title": "key-insights",
+    "permalink": "/why/key-insights"
+  }
+}

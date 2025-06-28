@@ -1,0 +1,14 @@
+{
+  "unversionedId": "extras/go-to-market/strategy",
+  "id": "extras/go-to-market/strategy",
+  "title": "GTM Strategy",
+  "description": "Phase 1: Creator-First",
+  "source": "@site/docs/extras/go-to-market/strategy.md",
+  "sourceDirName": "extras/go-to-market",
+  "slug": "/extras/go-to-market/strategy",
+  "permalink": "/extras/go-to-market/strategy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

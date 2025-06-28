@@ -1,0 +1,14 @@
+{
+  "unversionedId": "extras/pitch/founder",
+  "id": "extras/pitch/founder",
+  "title": "Why Me",
+  "description": "- 🏫 IIT Roorkee – BTech CSE",
+  "source": "@site/docs/extras/pitch/founder.md",
+  "sourceDirName": "extras/pitch",
+  "slug": "/extras/pitch/founder",
+  "permalink": "/extras/pitch/founder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

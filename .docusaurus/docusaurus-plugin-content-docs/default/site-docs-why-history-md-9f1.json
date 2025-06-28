@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why/history",
+  "id": "why/history",
+  "title": "history",
+  "description": "",
+  "source": "@site/docs/why/history.md",
+  "sourceDirName": "why",
+  "slug": "/why/history",
+  "permalink": "/why/history",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "key-insights",
+    "permalink": "/why/key-insights"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/core-technology/"
+  }
+}

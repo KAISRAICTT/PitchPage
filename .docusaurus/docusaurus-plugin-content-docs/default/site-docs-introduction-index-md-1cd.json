@@ -1,0 +1,19 @@
+{
+  "unversionedId": "introduction/index",
+  "id": "introduction/index",
+  "title": "Welcome to HaloH",
+  "description": "The Perception Layer of Reality",
+  "source": "@site/docs/introduction/index.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/",
+  "permalink": "/introduction/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "Welcome to HaloH",
+    "permalink": "/introduction/what"
+  }
+}

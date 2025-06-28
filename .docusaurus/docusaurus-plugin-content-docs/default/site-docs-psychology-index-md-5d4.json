@@ -1,0 +1,23 @@
+{
+  "unversionedId": "psychology/index",
+  "id": "psychology/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/psychology/index.md",
+  "sourceDirName": "psychology",
+  "slug": "/psychology/",
+  "permalink": "/psychology/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "edge-computation",
+    "permalink": "/core-technology/edge-computation"
+  },
+  "next": {
+    "title": "habit-loop",
+    "permalink": "/psychology/habit-loop"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/monetization/geofencing",
+  "id": "business/monetization/geofencing",
+  "title": "geofencing",
+  "description": "",
+  "source": "@site/docs/business/monetization/geofencing.md",
+  "sourceDirName": "business/monetization",
+  "slug": "/business/monetization/geofencing",
+  "permalink": "/business/monetization/geofencing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "creator-brand-deals-commissions",
+    "permalink": "/business/monetization/creator-brand-deals-commissions"
+  },
+  "next": {
+    "title": "developer-app-commissions",
+    "permalink": "/business/monetization/developer-app-commissions"
+  }
+}

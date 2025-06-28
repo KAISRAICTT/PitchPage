@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/gtm/index",
+  "id": "business/gtm/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/business/gtm/index.md",
+  "sourceDirName": "business/gtm",
+  "slug": "/business/gtm/",
+  "permalink": "/business/gtm/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "others",
+    "permalink": "/business/monetization/others"
+  },
+  "next": {
+    "title": "phase0",
+    "permalink": "/business/gtm/phase0"
+  }
+}

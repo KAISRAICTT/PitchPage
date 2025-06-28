@@ -1,0 +1,23 @@
+{
+  "unversionedId": "competition/index",
+  "id": "competition/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/competition/index.md",
+  "sourceDirName": "competition",
+  "slug": "/competition/",
+  "permalink": "/competition/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "final",
+    "permalink": "/business/gtm/final"
+  },
+  "next": {
+    "title": "meta",
+    "permalink": "/competition/meta"
+  }
+}

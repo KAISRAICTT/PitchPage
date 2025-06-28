@@ -18,14 +18,631 @@
           "contentPathLocalized": "/Users/ronnie.gandhi/Documents/APCMGKQ/PitchPage/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "concept/loop",
-              "id": "concept/loop",
-              "title": "Irreplaceable Loop",
-              "description": "⏱️ 5-Second Loop:",
-              "source": "@site/docs/concept/loop.md",
+              "unversionedId": "business/gtm/final",
+              "id": "business/gtm/final",
+              "title": "final",
+              "description": "",
+              "source": "@site/docs/business/gtm/final.md",
+              "sourceDirName": "business/gtm",
+              "slug": "/business/gtm/final",
+              "permalink": "/business/gtm/final",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "phase3",
+                "permalink": "/business/gtm/phase3"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/competition/"
+              }
+            },
+            {
+              "unversionedId": "business/gtm/index",
+              "id": "business/gtm/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/business/gtm/index.md",
+              "sourceDirName": "business/gtm",
+              "slug": "/business/gtm/",
+              "permalink": "/business/gtm/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "others",
+                "permalink": "/business/monetization/others"
+              },
+              "next": {
+                "title": "phase0",
+                "permalink": "/business/gtm/phase0"
+              }
+            },
+            {
+              "unversionedId": "business/gtm/phase0",
+              "id": "business/gtm/phase0",
+              "title": "phase0",
+              "description": "",
+              "source": "@site/docs/business/gtm/phase0.md",
+              "sourceDirName": "business/gtm",
+              "slug": "/business/gtm/phase0",
+              "permalink": "/business/gtm/phase0",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/business/gtm/"
+              },
+              "next": {
+                "title": "phase1",
+                "permalink": "/business/gtm/phase1"
+              }
+            },
+            {
+              "unversionedId": "business/gtm/phase1",
+              "id": "business/gtm/phase1",
+              "title": "phase1",
+              "description": "",
+              "source": "@site/docs/business/gtm/phase1.md",
+              "sourceDirName": "business/gtm",
+              "slug": "/business/gtm/phase1",
+              "permalink": "/business/gtm/phase1",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "phase0",
+                "permalink": "/business/gtm/phase0"
+              },
+              "next": {
+                "title": "phase2",
+                "permalink": "/business/gtm/phase2"
+              }
+            },
+            {
+              "unversionedId": "business/gtm/phase2",
+              "id": "business/gtm/phase2",
+              "title": "phase2",
+              "description": "",
+              "source": "@site/docs/business/gtm/phase2.md",
+              "sourceDirName": "business/gtm",
+              "slug": "/business/gtm/phase2",
+              "permalink": "/business/gtm/phase2",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "phase1",
+                "permalink": "/business/gtm/phase1"
+              },
+              "next": {
+                "title": "phase3",
+                "permalink": "/business/gtm/phase3"
+              }
+            },
+            {
+              "unversionedId": "business/gtm/phase3",
+              "id": "business/gtm/phase3",
+              "title": "phase3",
+              "description": "",
+              "source": "@site/docs/business/gtm/phase3.md",
+              "sourceDirName": "business/gtm",
+              "slug": "/business/gtm/phase3",
+              "permalink": "/business/gtm/phase3",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "phase2",
+                "permalink": "/business/gtm/phase2"
+              },
+              "next": {
+                "title": "final",
+                "permalink": "/business/gtm/final"
+              }
+            },
+            {
+              "unversionedId": "business/index",
+              "id": "business/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/business/index.md",
+              "sourceDirName": "business",
+              "slug": "/business/",
+              "permalink": "/business/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "hook-like-slot-machine",
+                "permalink": "/psychology/hook-like-slot-machine"
+              },
+              "next": {
+                "title": "tam",
+                "permalink": "/business/tam"
+              }
+            },
+            {
+              "unversionedId": "business/monetization/ads",
+              "id": "business/monetization/ads",
+              "title": "ads",
+              "description": "",
+              "source": "@site/docs/business/monetization/ads.md",
+              "sourceDirName": "business/monetization",
+              "slug": "/business/monetization/ads",
+              "permalink": "/business/monetization/ads",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/business/monetization/"
+              },
+              "next": {
+                "title": "creator-brand-deals-commissions",
+                "permalink": "/business/monetization/creator-brand-deals-commissions"
+              }
+            },
+            {
+              "unversionedId": "business/monetization/creator-brand-deals-commissions",
+              "id": "business/monetization/creator-brand-deals-commissions",
+              "title": "creator-brand-deals-commissions",
+              "description": "",
+              "source": "@site/docs/business/monetization/creator-brand-deals-commissions.md",
+              "sourceDirName": "business/monetization",
+              "slug": "/business/monetization/creator-brand-deals-commissions",
+              "permalink": "/business/monetization/creator-brand-deals-commissions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "ads",
+                "permalink": "/business/monetization/ads"
+              },
+              "next": {
+                "title": "geofencing",
+                "permalink": "/business/monetization/geofencing"
+              }
+            },
+            {
+              "unversionedId": "business/monetization/developer-app-commissions",
+              "id": "business/monetization/developer-app-commissions",
+              "title": "developer-app-commissions",
+              "description": "",
+              "source": "@site/docs/business/monetization/developer-app-commissions.md",
+              "sourceDirName": "business/monetization",
+              "slug": "/business/monetization/developer-app-commissions",
+              "permalink": "/business/monetization/developer-app-commissions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "geofencing",
+                "permalink": "/business/monetization/geofencing"
+              },
+              "next": {
+                "title": "others",
+                "permalink": "/business/monetization/others"
+              }
+            },
+            {
+              "unversionedId": "business/monetization/geofencing",
+              "id": "business/monetization/geofencing",
+              "title": "geofencing",
+              "description": "",
+              "source": "@site/docs/business/monetization/geofencing.md",
+              "sourceDirName": "business/monetization",
+              "slug": "/business/monetization/geofencing",
+              "permalink": "/business/monetization/geofencing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "creator-brand-deals-commissions",
+                "permalink": "/business/monetization/creator-brand-deals-commissions"
+              },
+              "next": {
+                "title": "developer-app-commissions",
+                "permalink": "/business/monetization/developer-app-commissions"
+              }
+            },
+            {
+              "unversionedId": "business/monetization/index",
+              "id": "business/monetization/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/business/monetization/index.md",
+              "sourceDirName": "business/monetization",
+              "slug": "/business/monetization/",
+              "permalink": "/business/monetization/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "tam",
+                "permalink": "/business/tam"
+              },
+              "next": {
+                "title": "ads",
+                "permalink": "/business/monetization/ads"
+              }
+            },
+            {
+              "unversionedId": "business/monetization/others",
+              "id": "business/monetization/others",
+              "title": "others",
+              "description": "",
+              "source": "@site/docs/business/monetization/others.md",
+              "sourceDirName": "business/monetization",
+              "slug": "/business/monetization/others",
+              "permalink": "/business/monetization/others",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "developer-app-commissions",
+                "permalink": "/business/monetization/developer-app-commissions"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/business/gtm/"
+              }
+            },
+            {
+              "unversionedId": "business/tam",
+              "id": "business/tam",
+              "title": "tam",
+              "description": "",
+              "source": "@site/docs/business/tam.md",
+              "sourceDirName": "business",
+              "slug": "/business/tam",
+              "permalink": "/business/tam",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/business/"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/business/monetization/"
+              }
+            },
+            {
+              "unversionedId": "competition/apple",
+              "id": "competition/apple",
+              "title": "apple",
+              "description": "",
+              "source": "@site/docs/competition/apple.md",
+              "sourceDirName": "competition",
+              "slug": "/competition/apple",
+              "permalink": "/competition/apple",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "niantic-labs",
+                "permalink": "/competition/niantic-labs"
+              }
+            },
+            {
+              "unversionedId": "competition/bytedance",
+              "id": "competition/bytedance",
+              "title": "bytedance",
+              "description": "",
+              "source": "@site/docs/competition/bytedance.md",
+              "sourceDirName": "competition",
+              "slug": "/competition/bytedance",
+              "permalink": "/competition/bytedance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "meta",
+                "permalink": "/competition/meta"
+              },
+              "next": {
+                "title": "snap",
+                "permalink": "/competition/snap"
+              }
+            },
+            {
+              "unversionedId": "competition/google",
+              "id": "competition/google",
+              "title": "google",
+              "description": "",
+              "source": "@site/docs/competition/google.md",
+              "sourceDirName": "competition",
+              "slug": "/competition/google",
+              "permalink": "/competition/google",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "snap",
+                "permalink": "/competition/snap"
+              },
+              "next": {
+                "title": "niantic-labs",
+                "permalink": "/competition/niantic-labs"
+              }
+            },
+            {
+              "unversionedId": "competition/index",
+              "id": "competition/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/competition/index.md",
+              "sourceDirName": "competition",
+              "slug": "/competition/",
+              "permalink": "/competition/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "final",
+                "permalink": "/business/gtm/final"
+              },
+              "next": {
+                "title": "meta",
+                "permalink": "/competition/meta"
+              }
+            },
+            {
+              "unversionedId": "competition/meta",
+              "id": "competition/meta",
+              "title": "meta",
+              "description": "",
+              "source": "@site/docs/competition/meta.md",
+              "sourceDirName": "competition",
+              "slug": "/competition/meta",
+              "permalink": "/competition/meta",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/competition/"
+              },
+              "next": {
+                "title": "bytedance",
+                "permalink": "/competition/bytedance"
+              }
+            },
+            {
+              "unversionedId": "competition/niantic-labs",
+              "id": "competition/niantic-labs",
+              "title": "niantic-labs",
+              "description": "",
+              "source": "@site/docs/competition/niantic-labs.md",
+              "sourceDirName": "competition",
+              "slug": "/competition/niantic-labs",
+              "permalink": "/competition/niantic-labs",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "google",
+                "permalink": "/competition/google"
+              },
+              "next": {
+                "title": "apple",
+                "permalink": "/competition/apple"
+              }
+            },
+            {
+              "unversionedId": "competition/snap",
+              "id": "competition/snap",
+              "title": "snap",
+              "description": "",
+              "source": "@site/docs/competition/snap.md",
+              "sourceDirName": "competition",
+              "slug": "/competition/snap",
+              "permalink": "/competition/snap",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "bytedance",
+                "permalink": "/competition/bytedance"
+              },
+              "next": {
+                "title": "google",
+                "permalink": "/competition/google"
+              }
+            },
+            {
+              "unversionedId": "concept/features/aichat",
+              "id": "concept/features/aichat",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/concept/features/aichat.md",
+              "sourceDirName": "concept/features",
+              "slug": "/concept/features/aichat",
+              "permalink": "/concept/features/aichat",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/explore"
+              },
+              "next": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/impact"
+              }
+            },
+            {
+              "unversionedId": "concept/features/clone",
+              "id": "concept/features/clone",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/concept/features/clone.md",
+              "sourceDirName": "concept/features",
+              "slug": "/concept/features/clone",
+              "permalink": "/concept/features/clone",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/post"
+              },
+              "next": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/explore"
+              }
+            },
+            {
+              "unversionedId": "concept/features/explore",
+              "id": "concept/features/explore",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/concept/features/explore.md",
+              "sourceDirName": "concept/features",
+              "slug": "/concept/features/explore",
+              "permalink": "/concept/features/explore",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/clone"
+              },
+              "next": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/aichat"
+              }
+            },
+            {
+              "unversionedId": "concept/features/index",
+              "id": "concept/features/index",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/concept/features/index.md",
+              "sourceDirName": "concept/features",
+              "slug": "/concept/features/",
+              "permalink": "/concept/features/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/what"
+              },
+              "next": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/post"
+              }
+            },
+            {
+              "unversionedId": "concept/features/post",
+              "id": "concept/features/post",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/concept/features/post.md",
+              "sourceDirName": "concept/features",
+              "slug": "/concept/features/post",
+              "permalink": "/concept/features/post",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/"
+              },
+              "next": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/clone"
+              }
+            },
+            {
+              "unversionedId": "concept/impact",
+              "id": "concept/impact",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/concept/impact.md",
               "sourceDirName": "concept",
-              "slug": "/concept/loop",
-              "permalink": "/concept/loop",
+              "slug": "/concept/impact",
+              "permalink": "/concept/impact",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/aichat"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/why/"
+              }
+            },
+            {
+              "unversionedId": "concept/what",
+              "id": "concept/what",
+              "title": "Welcome to HaloH",
+              "description": "The Perception Layer of Reality",
+              "source": "@site/docs/concept/what.md",
+              "sourceDirName": "concept",
+              "slug": "/concept/what",
+              "permalink": "/concept/what",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -36,32 +653,222 @@
                 "permalink": "/"
               },
               "next": {
-                "title": "GTM Strategy",
-                "permalink": "/go-to-market/strategy"
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/features/"
               }
             },
             {
-              "unversionedId": "go-to-market/strategy",
-              "id": "go-to-market/strategy",
-              "title": "GTM Strategy",
-              "description": "Phase 1: Creator-First",
-              "source": "@site/docs/go-to-market/strategy.md",
-              "sourceDirName": "go-to-market",
-              "slug": "/go-to-market/strategy",
-              "permalink": "/go-to-market/strategy",
+              "unversionedId": "core-technology/ar-anchoring",
+              "id": "core-technology/ar-anchoring",
+              "title": "ar-anchoring",
+              "description": "",
+              "source": "@site/docs/core-technology/ar-anchoring.md",
+              "sourceDirName": "core-technology",
+              "slug": "/core-technology/ar-anchoring",
+              "permalink": "/core-technology/ar-anchoring",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Irreplaceable Loop",
-                "permalink": "/concept/loop"
+                "title": "index",
+                "permalink": "/core-technology/"
               },
               "next": {
-                "title": "Revenue Streams",
-                "permalink": "/monetization/"
+                "title": "reality-graph",
+                "permalink": "/core-technology/reality-graph"
               }
+            },
+            {
+              "unversionedId": "core-technology/edge-computation",
+              "id": "core-technology/edge-computation",
+              "title": "edge-computation",
+              "description": "",
+              "source": "@site/docs/core-technology/edge-computation.md",
+              "sourceDirName": "core-technology",
+              "slug": "/core-technology/edge-computation",
+              "permalink": "/core-technology/edge-computation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "generative-ai",
+                "permalink": "/core-technology/generative-ai"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/psychology/"
+              }
+            },
+            {
+              "unversionedId": "core-technology/generative-ai",
+              "id": "core-technology/generative-ai",
+              "title": "generative-ai",
+              "description": "",
+              "source": "@site/docs/core-technology/generative-ai.md",
+              "sourceDirName": "core-technology",
+              "slug": "/core-technology/generative-ai",
+              "permalink": "/core-technology/generative-ai",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "reality-graph",
+                "permalink": "/core-technology/reality-graph"
+              },
+              "next": {
+                "title": "edge-computation",
+                "permalink": "/core-technology/edge-computation"
+              }
+            },
+            {
+              "unversionedId": "core-technology/index",
+              "id": "core-technology/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/core-technology/index.md",
+              "sourceDirName": "core-technology",
+              "slug": "/core-technology/",
+              "permalink": "/core-technology/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "history",
+                "permalink": "/why/history"
+              },
+              "next": {
+                "title": "ar-anchoring",
+                "permalink": "/core-technology/ar-anchoring"
+              }
+            },
+            {
+              "unversionedId": "core-technology/reality-graph",
+              "id": "core-technology/reality-graph",
+              "title": "reality-graph",
+              "description": "",
+              "source": "@site/docs/core-technology/reality-graph.md",
+              "sourceDirName": "core-technology",
+              "slug": "/core-technology/reality-graph",
+              "permalink": "/core-technology/reality-graph",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "ar-anchoring",
+                "permalink": "/core-technology/ar-anchoring"
+              },
+              "next": {
+                "title": "generative-ai",
+                "permalink": "/core-technology/generative-ai"
+              }
+            },
+            {
+              "unversionedId": "extras/concept/loop",
+              "id": "extras/concept/loop",
+              "title": "Irreplaceable Loop",
+              "description": "⏱️ 5-Second Loop:",
+              "source": "@site/docs/extras/concept/loop.md",
+              "sourceDirName": "extras/concept",
+              "slug": "/extras/concept/loop",
+              "permalink": "/extras/concept/loop",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "extras/go-to-market/strategy",
+              "id": "extras/go-to-market/strategy",
+              "title": "GTM Strategy",
+              "description": "Phase 1: Creator-First",
+              "source": "@site/docs/extras/go-to-market/strategy.md",
+              "sourceDirName": "extras/go-to-market",
+              "slug": "/extras/go-to-market/strategy",
+              "permalink": "/extras/go-to-market/strategy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "extras/monetization/index",
+              "id": "extras/monetization/index",
+              "title": "Revenue Streams",
+              "description": "1. Creator Brand Deal Cuts",
+              "source": "@site/docs/extras/monetization/index.md",
+              "sourceDirName": "extras/monetization",
+              "slug": "/extras/monetization/",
+              "permalink": "/extras/monetization/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "extras/pitch/founder",
+              "id": "extras/pitch/founder",
+              "title": "Why Me",
+              "description": "- 🏫 IIT Roorkee – BTech CSE",
+              "source": "@site/docs/extras/pitch/founder.md",
+              "sourceDirName": "extras/pitch",
+              "slug": "/extras/pitch/founder",
+              "permalink": "/extras/pitch/founder",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "extras/product/cloning",
+              "id": "extras/product/cloning",
+              "title": "Anchor + Clone Logic",
+              "description": "- Posts are anchored where created",
+              "source": "@site/docs/extras/product/cloning.md",
+              "sourceDirName": "extras/product",
+              "slug": "/extras/product/cloning",
+              "permalink": "/extras/product/cloning",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "extras/tech/architecture",
+              "id": "extras/tech/architecture",
+              "title": "4 Pillars",
+              "description": "1. Spatial Computing",
+              "source": "@site/docs/extras/tech/architecture.md",
+              "sourceDirName": "extras/tech",
+              "slug": "/extras/tech/architecture",
+              "permalink": "/extras/tech/architecture",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "extras/tech/index",
+              "id": "extras/tech/index",
+              "title": "Kaiserectt Engine",
+              "description": "The Next Frontier of Reality",
+              "source": "@site/docs/extras/tech/index.md",
+              "sourceDirName": "extras/tech",
+              "slug": "/extras/tech/",
+              "permalink": "/extras/tech/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
             },
             {
               "unversionedId": "index",
@@ -78,119 +885,261 @@
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "next": {
-                "title": "Irreplaceable Loop",
-                "permalink": "/concept/loop"
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/what"
               }
             },
             {
-              "unversionedId": "monetization/index",
-              "id": "monetization/index",
-              "title": "Revenue Streams",
-              "description": "1. Creator Brand Deal Cuts",
-              "source": "@site/docs/monetization/index.md",
-              "sourceDirName": "monetization",
-              "slug": "/monetization/",
-              "permalink": "/monetization/",
+              "unversionedId": "psychology/habit-loop",
+              "id": "psychology/habit-loop",
+              "title": "habit-loop",
+              "description": "",
+              "source": "@site/docs/psychology/habit-loop.md",
+              "sourceDirName": "psychology",
+              "slug": "/psychology/habit-loop",
+              "permalink": "/psychology/habit-loop",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "GTM Strategy",
-                "permalink": "/go-to-market/strategy"
+                "title": "index",
+                "permalink": "/psychology/"
               },
               "next": {
-                "title": "Why Me",
-                "permalink": "/pitch/founder"
+                "title": "why-tiktok-works",
+                "permalink": "/psychology/why-tiktok-works"
               }
             },
             {
-              "unversionedId": "pitch/founder",
-              "id": "pitch/founder",
-              "title": "Why Me",
-              "description": "- 🏫 IIT Roorkee – BTech CSE",
-              "source": "@site/docs/pitch/founder.md",
-              "sourceDirName": "pitch",
-              "slug": "/pitch/founder",
-              "permalink": "/pitch/founder",
+              "unversionedId": "psychology/hook-like-slot-machine",
+              "id": "psychology/hook-like-slot-machine",
+              "title": "hook-like-slot-machine",
+              "description": "",
+              "source": "@site/docs/psychology/hook-like-slot-machine.md",
+              "sourceDirName": "psychology",
+              "slug": "/psychology/hook-like-slot-machine",
+              "permalink": "/psychology/hook-like-slot-machine",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Revenue Streams",
-                "permalink": "/monetization/"
+                "title": "why-tiktok-works",
+                "permalink": "/psychology/why-tiktok-works"
               },
               "next": {
-                "title": "Anchor + Clone Logic",
-                "permalink": "/product/cloning"
+                "title": "index",
+                "permalink": "/business/"
               }
             },
             {
-              "unversionedId": "product/cloning",
-              "id": "product/cloning",
-              "title": "Anchor + Clone Logic",
-              "description": "- Posts are anchored where created",
-              "source": "@site/docs/product/cloning.md",
-              "sourceDirName": "product",
-              "slug": "/product/cloning",
-              "permalink": "/product/cloning",
+              "unversionedId": "psychology/index",
+              "id": "psychology/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/psychology/index.md",
+              "sourceDirName": "psychology",
+              "slug": "/psychology/",
+              "permalink": "/psychology/",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Why Me",
-                "permalink": "/pitch/founder"
+                "title": "edge-computation",
+                "permalink": "/core-technology/edge-computation"
               },
               "next": {
-                "title": "Kaiserectt Engine",
-                "permalink": "/tech/"
+                "title": "habit-loop",
+                "permalink": "/psychology/habit-loop"
               }
             },
             {
-              "unversionedId": "tech/architecture",
-              "id": "tech/architecture",
-              "title": "4 Pillars",
-              "description": "1. Spatial Computing",
-              "source": "@site/docs/tech/architecture.md",
-              "sourceDirName": "tech",
-              "slug": "/tech/architecture",
-              "permalink": "/tech/architecture",
+              "unversionedId": "psychology/why-tiktok-works",
+              "id": "psychology/why-tiktok-works",
+              "title": "why-tiktok-works",
+              "description": "",
+              "source": "@site/docs/psychology/why-tiktok-works.md",
+              "sourceDirName": "psychology",
+              "slug": "/psychology/why-tiktok-works",
+              "permalink": "/psychology/why-tiktok-works",
               "draft": false,
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "mainSidebar",
               "previous": {
-                "title": "Kaiserectt Engine",
-                "permalink": "/tech/"
-              }
-            },
-            {
-              "unversionedId": "tech/index",
-              "id": "tech/index",
-              "title": "Kaiserectt Engine",
-              "description": "The Next Frontier of Reality",
-              "source": "@site/docs/tech/index.md",
-              "sourceDirName": "tech",
-              "slug": "/tech/",
-              "permalink": "/tech/",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "mainSidebar",
-              "previous": {
-                "title": "Anchor + Clone Logic",
-                "permalink": "/product/cloning"
+                "title": "habit-loop",
+                "permalink": "/psychology/habit-loop"
               },
               "next": {
-                "title": "4 Pillars",
-                "permalink": "/tech/architecture"
+                "title": "hook-like-slot-machine",
+                "permalink": "/psychology/hook-like-slot-machine"
+              }
+            },
+            {
+              "unversionedId": "why/history",
+              "id": "why/history",
+              "title": "history",
+              "description": "",
+              "source": "@site/docs/why/history.md",
+              "sourceDirName": "why",
+              "slug": "/why/history",
+              "permalink": "/why/history",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "key-insights",
+                "permalink": "/why/key-insights"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/core-technology/"
+              }
+            },
+            {
+              "unversionedId": "why/index",
+              "id": "why/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/why/index.md",
+              "sourceDirName": "why",
+              "slug": "/why/",
+              "permalink": "/why/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Welcome to HaloH",
+                "permalink": "/concept/impact"
+              },
+              "next": {
+                "title": "me",
+                "permalink": "/why/me"
+              }
+            },
+            {
+              "unversionedId": "why/key-insights",
+              "id": "why/key-insights",
+              "title": "key-insights",
+              "description": "",
+              "source": "@site/docs/why/key-insights.md",
+              "sourceDirName": "why",
+              "slug": "/why/key-insights",
+              "permalink": "/why/key-insights",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "why-for-consumers",
+                "permalink": "/why/why-for-consumers"
+              },
+              "next": {
+                "title": "history",
+                "permalink": "/why/history"
+              }
+            },
+            {
+              "unversionedId": "why/me",
+              "id": "why/me",
+              "title": "me",
+              "description": "",
+              "source": "@site/docs/why/me.md",
+              "sourceDirName": "why",
+              "slug": "/why/me",
+              "permalink": "/why/me",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/why/"
+              },
+              "next": {
+                "title": "now",
+                "permalink": "/why/now"
+              }
+            },
+            {
+              "unversionedId": "why/now",
+              "id": "why/now",
+              "title": "now",
+              "description": "",
+              "source": "@site/docs/why/now.md",
+              "sourceDirName": "why",
+              "slug": "/why/now",
+              "permalink": "/why/now",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "me",
+                "permalink": "/why/me"
+              },
+              "next": {
+                "title": "why-for-creators",
+                "permalink": "/why/why-for-creators"
+              }
+            },
+            {
+              "unversionedId": "why/why-for-consumers",
+              "id": "why/why-for-consumers",
+              "title": "why-for-consumers",
+              "description": "",
+              "source": "@site/docs/why/why-for-consumers.md",
+              "sourceDirName": "why",
+              "slug": "/why/why-for-consumers",
+              "permalink": "/why/why-for-consumers",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "why-for-creators",
+                "permalink": "/why/why-for-creators"
+              },
+              "next": {
+                "title": "key-insights",
+                "permalink": "/why/key-insights"
+              }
+            },
+            {
+              "unversionedId": "why/why-for-creators",
+              "id": "why/why-for-creators",
+              "title": "why-for-creators",
+              "description": "",
+              "source": "@site/docs/why/why-for-creators.md",
+              "sourceDirName": "why",
+              "slug": "/why/why-for-creators",
+              "permalink": "/why/why-for-creators",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "now",
+                "permalink": "/why/now"
+              },
+              "next": {
+                "title": "why-for-consumers",
+                "permalink": "/why/why-for-consumers"
               }
             }
           ],
@@ -205,75 +1154,247 @@
               },
               {
                 "type": "category",
-                "label": "Concept",
+                "label": "Concept (What?)",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "concept/loop"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Go To Market",
-                "items": [
+                    "id": "concept/what"
+                  },
                   {
-                    "type": "doc",
-                    "id": "go-to-market/strategy"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Monetization",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "monetization/index"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "About Founder",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "pitch/founder"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Product",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "product/cloning"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Tech",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tech/index"
+                    "type": "category",
+                    "label": "Features",
+                    "link": {
+                      "type": "doc",
+                      "id": "concept/features/index"
+                    },
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "concept/features/post"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept/features/clone"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept/features/explore"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "concept/features/aichat"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
                   },
                   {
                     "type": "doc",
-                    "id": "tech/architecture"
+                    "id": "concept/impact"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Why?",
+                "link": {
+                  "type": "doc",
+                  "id": "why/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "why/me"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "why/now"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "why/why-for-creators"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "why/why-for-consumers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "why/key-insights"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "why/history"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Technology",
+                "link": {
+                  "type": "doc",
+                  "id": "core-technology/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "core-technology/ar-anchoring"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "core-technology/reality-graph"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "core-technology/generative-ai"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "core-technology/edge-computation"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Psychology",
+                "link": {
+                  "type": "doc",
+                  "id": "psychology/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "psychology/habit-loop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "psychology/why-tiktok-works"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "psychology/hook-like-slot-machine"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Business",
+                "link": {
+                  "type": "doc",
+                  "id": "business/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "business/tam"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Monetization Avenues",
+                    "link": {
+                      "type": "doc",
+                      "id": "business/monetization/index"
+                    },
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "business/monetization/ads"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/monetization/creator-brand-deals-commissions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/monetization/geofencing"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/monetization/developer-app-commissions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/monetization/others"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "GTM & Growth Strategy",
+                    "link": {
+                      "type": "doc",
+                      "id": "business/gtm/index"
+                    },
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "business/gtm/phase0"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/gtm/phase1"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/gtm/phase2"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/gtm/phase3"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "business/gtm/final"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Competition",
+                "link": {
+                  "type": "doc",
+                  "id": "competition/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "competition/meta"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competition/bytedance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competition/snap"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competition/google"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competition/niantic-labs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competition/apple"
                   }
                 ],
                 "collapsed": true,

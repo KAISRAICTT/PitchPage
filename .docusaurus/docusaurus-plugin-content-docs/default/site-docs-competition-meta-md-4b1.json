@@ -1,0 +1,23 @@
+{
+  "unversionedId": "competition/meta",
+  "id": "competition/meta",
+  "title": "meta",
+  "description": "",
+  "source": "@site/docs/competition/meta.md",
+  "sourceDirName": "competition",
+  "slug": "/competition/meta",
+  "permalink": "/competition/meta",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/competition/"
+  },
+  "next": {
+    "title": "bytedance",
+    "permalink": "/competition/bytedance"
+  }
+}

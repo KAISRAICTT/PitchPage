@@ -1,0 +1,14 @@
+{
+  "unversionedId": "extras/monetization/index",
+  "id": "extras/monetization/index",
+  "title": "Revenue Streams",
+  "description": "1. Creator Brand Deal Cuts",
+  "source": "@site/docs/extras/monetization/index.md",
+  "sourceDirName": "extras/monetization",
+  "slug": "/extras/monetization/",
+  "permalink": "/extras/monetization/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why/now",
+  "id": "why/now",
+  "title": "now",
+  "description": "",
+  "source": "@site/docs/why/now.md",
+  "sourceDirName": "why",
+  "slug": "/why/now",
+  "permalink": "/why/now",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "me",
+    "permalink": "/why/me"
+  },
+  "next": {
+    "title": "why-for-creators",
+    "permalink": "/why/why-for-creators"
+  }
+}

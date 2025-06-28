@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept/features/aichat",
+  "id": "concept/features/aichat",
+  "title": "Welcome to HaloH",
+  "description": "The Perception Layer of Reality",
+  "source": "@site/docs/concept/features/aichat.md",
+  "sourceDirName": "concept/features",
+  "slug": "/concept/features/aichat",
+  "permalink": "/concept/features/aichat",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Welcome to HaloH",
+    "permalink": "/concept/features/explore"
+  },
+  "next": {
+    "title": "Welcome to HaloH",
+    "permalink": "/concept/impact"
+  }
+}

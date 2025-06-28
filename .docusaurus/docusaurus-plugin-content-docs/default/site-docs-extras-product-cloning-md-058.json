@@ -1,0 +1,14 @@
+{
+  "unversionedId": "extras/product/cloning",
+  "id": "extras/product/cloning",
+  "title": "Anchor + Clone Logic",
+  "description": "- Posts are anchored where created",
+  "source": "@site/docs/extras/product/cloning.md",
+  "sourceDirName": "extras/product",
+  "slug": "/extras/product/cloning",
+  "permalink": "/extras/product/cloning",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/index",
+  "id": "business/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/business/index.md",
+  "sourceDirName": "business",
+  "slug": "/business/",
+  "permalink": "/business/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "hook-like-slot-machine",
+    "permalink": "/psychology/hook-like-slot-machine"
+  },
+  "next": {
+    "title": "tam",
+    "permalink": "/business/tam"
+  }
+}

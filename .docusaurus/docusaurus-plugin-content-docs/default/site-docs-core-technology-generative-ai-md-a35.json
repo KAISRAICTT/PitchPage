@@ -1,0 +1,23 @@
+{
+  "unversionedId": "core-technology/generative-ai",
+  "id": "core-technology/generative-ai",
+  "title": "generative-ai",
+  "description": "",
+  "source": "@site/docs/core-technology/generative-ai.md",
+  "sourceDirName": "core-technology",
+  "slug": "/core-technology/generative-ai",
+  "permalink": "/core-technology/generative-ai",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "reality-graph",
+    "permalink": "/core-technology/reality-graph"
+  },
+  "next": {
+    "title": "edge-computation",
+    "permalink": "/core-technology/edge-computation"
+  }
+}

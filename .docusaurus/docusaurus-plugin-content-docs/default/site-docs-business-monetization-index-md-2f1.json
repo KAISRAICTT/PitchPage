@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/monetization/index",
+  "id": "business/monetization/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/business/monetization/index.md",
+  "sourceDirName": "business/monetization",
+  "slug": "/business/monetization/",
+  "permalink": "/business/monetization/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "tam",
+    "permalink": "/business/tam"
+  },
+  "next": {
+    "title": "ads",
+    "permalink": "/business/monetization/ads"
+  }
+}

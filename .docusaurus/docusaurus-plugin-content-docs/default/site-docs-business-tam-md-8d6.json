@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/tam",
+  "id": "business/tam",
+  "title": "tam",
+  "description": "",
+  "source": "@site/docs/business/tam.md",
+  "sourceDirName": "business",
+  "slug": "/business/tam",
+  "permalink": "/business/tam",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/business/"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/business/monetization/"
+  }
+}

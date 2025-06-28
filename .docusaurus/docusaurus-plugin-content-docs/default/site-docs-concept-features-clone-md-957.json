@@ -1,0 +1,23 @@
+{
+  "unversionedId": "concept/features/clone",
+  "id": "concept/features/clone",
+  "title": "Welcome to HaloH",
+  "description": "The Perception Layer of Reality",
+  "source": "@site/docs/concept/features/clone.md",
+  "sourceDirName": "concept/features",
+  "slug": "/concept/features/clone",
+  "permalink": "/concept/features/clone",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Welcome to HaloH",
+    "permalink": "/concept/features/post"
+  },
+  "next": {
+    "title": "Welcome to HaloH",
+    "permalink": "/concept/features/explore"
+  }
+}

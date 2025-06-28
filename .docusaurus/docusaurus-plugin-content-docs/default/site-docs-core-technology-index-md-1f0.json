@@ -1,0 +1,23 @@
+{
+  "unversionedId": "core-technology/index",
+  "id": "core-technology/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/core-technology/index.md",
+  "sourceDirName": "core-technology",
+  "slug": "/core-technology/",
+  "permalink": "/core-technology/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "history",
+    "permalink": "/why/history"
+  },
+  "next": {
+    "title": "ar-anchoring",
+    "permalink": "/core-technology/ar-anchoring"
+  }
+}

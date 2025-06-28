@@ -11,14 +11,197 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "concept/loop",
-              "path": "/concept/loop",
+              "id": "business/gtm/final",
+              "path": "/business/gtm/final",
               "sidebar": "mainSidebar"
             },
             {
-              "id": "go-to-market/strategy",
-              "path": "/go-to-market/strategy",
+              "id": "business/gtm/index",
+              "path": "/business/gtm/",
               "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/gtm/phase0",
+              "path": "/business/gtm/phase0",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/gtm/phase1",
+              "path": "/business/gtm/phase1",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/gtm/phase2",
+              "path": "/business/gtm/phase2",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/gtm/phase3",
+              "path": "/business/gtm/phase3",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/index",
+              "path": "/business/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/monetization/ads",
+              "path": "/business/monetization/ads",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/monetization/creator-brand-deals-commissions",
+              "path": "/business/monetization/creator-brand-deals-commissions",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/monetization/developer-app-commissions",
+              "path": "/business/monetization/developer-app-commissions",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/monetization/geofencing",
+              "path": "/business/monetization/geofencing",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/monetization/index",
+              "path": "/business/monetization/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/monetization/others",
+              "path": "/business/monetization/others",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "business/tam",
+              "path": "/business/tam",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "competition/apple",
+              "path": "/competition/apple",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "competition/bytedance",
+              "path": "/competition/bytedance",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "competition/google",
+              "path": "/competition/google",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "competition/index",
+              "path": "/competition/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "competition/meta",
+              "path": "/competition/meta",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "competition/niantic-labs",
+              "path": "/competition/niantic-labs",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "competition/snap",
+              "path": "/competition/snap",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "concept/features/aichat",
+              "path": "/concept/features/aichat",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "concept/features/clone",
+              "path": "/concept/features/clone",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "concept/features/explore",
+              "path": "/concept/features/explore",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "concept/features/index",
+              "path": "/concept/features/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "concept/features/post",
+              "path": "/concept/features/post",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "concept/impact",
+              "path": "/concept/impact",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "concept/what",
+              "path": "/concept/what",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "core-technology/ar-anchoring",
+              "path": "/core-technology/ar-anchoring",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "core-technology/edge-computation",
+              "path": "/core-technology/edge-computation",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "core-technology/generative-ai",
+              "path": "/core-technology/generative-ai",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "core-technology/index",
+              "path": "/core-technology/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "core-technology/reality-graph",
+              "path": "/core-technology/reality-graph",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "extras/concept/loop",
+              "path": "/extras/concept/loop"
+            },
+            {
+              "id": "extras/go-to-market/strategy",
+              "path": "/extras/go-to-market/strategy"
+            },
+            {
+              "id": "extras/monetization/index",
+              "path": "/extras/monetization/"
+            },
+            {
+              "id": "extras/pitch/founder",
+              "path": "/extras/pitch/founder"
+            },
+            {
+              "id": "extras/product/cloning",
+              "path": "/extras/product/cloning"
+            },
+            {
+              "id": "extras/tech/architecture",
+              "path": "/extras/tech/architecture"
+            },
+            {
+              "id": "extras/tech/index",
+              "path": "/extras/tech/"
             },
             {
               "id": "index",
@@ -26,28 +209,58 @@
               "sidebar": "mainSidebar"
             },
             {
-              "id": "monetization/index",
-              "path": "/monetization/",
+              "id": "psychology/habit-loop",
+              "path": "/psychology/habit-loop",
               "sidebar": "mainSidebar"
             },
             {
-              "id": "pitch/founder",
-              "path": "/pitch/founder",
+              "id": "psychology/hook-like-slot-machine",
+              "path": "/psychology/hook-like-slot-machine",
               "sidebar": "mainSidebar"
             },
             {
-              "id": "product/cloning",
-              "path": "/product/cloning",
+              "id": "psychology/index",
+              "path": "/psychology/",
               "sidebar": "mainSidebar"
             },
             {
-              "id": "tech/architecture",
-              "path": "/tech/architecture",
+              "id": "psychology/why-tiktok-works",
+              "path": "/psychology/why-tiktok-works",
               "sidebar": "mainSidebar"
             },
             {
-              "id": "tech/index",
-              "path": "/tech/",
+              "id": "why/history",
+              "path": "/why/history",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/index",
+              "path": "/why/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/key-insights",
+              "path": "/why/key-insights",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/me",
+              "path": "/why/me",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/now",
+              "path": "/why/now",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/why-for-consumers",
+              "path": "/why/why-for-consumers",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/why-for-creators",
+              "path": "/why/why-for-creators",
               "sidebar": "mainSidebar"
             }
           ],

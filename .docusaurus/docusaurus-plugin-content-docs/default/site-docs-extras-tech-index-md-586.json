@@ -1,0 +1,14 @@
+{
+  "unversionedId": "extras/tech/index",
+  "id": "extras/tech/index",
+  "title": "Kaiserectt Engine",
+  "description": "The Next Frontier of Reality",
+  "source": "@site/docs/extras/tech/index.md",
+  "sourceDirName": "extras/tech",
+  "slug": "/extras/tech/",
+  "permalink": "/extras/tech/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

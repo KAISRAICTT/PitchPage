@@ -1,0 +1,23 @@
+{
+  "unversionedId": "psychology/hook-like-slot-machine",
+  "id": "psychology/hook-like-slot-machine",
+  "title": "hook-like-slot-machine",
+  "description": "",
+  "source": "@site/docs/psychology/hook-like-slot-machine.md",
+  "sourceDirName": "psychology",
+  "slug": "/psychology/hook-like-slot-machine",
+  "permalink": "/psychology/hook-like-slot-machine",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "why-tiktok-works",
+    "permalink": "/psychology/why-tiktok-works"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/business/"
+  }
+}

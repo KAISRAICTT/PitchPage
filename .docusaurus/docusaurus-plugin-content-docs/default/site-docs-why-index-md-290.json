@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why/index",
+  "id": "why/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/why/index.md",
+  "sourceDirName": "why",
+  "slug": "/why/",
+  "permalink": "/why/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Welcome to HaloH",
+    "permalink": "/concept/impact"
+  },
+  "next": {
+    "title": "me",
+    "permalink": "/why/me"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "core-technology/ar-anchoring",
+  "id": "core-technology/ar-anchoring",
+  "title": "ar-anchoring",
+  "description": "",
+  "source": "@site/docs/core-technology/ar-anchoring.md",
+  "sourceDirName": "core-technology",
+  "slug": "/core-technology/ar-anchoring",
+  "permalink": "/core-technology/ar-anchoring",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/core-technology/"
+  },
+  "next": {
+    "title": "reality-graph",
+    "permalink": "/core-technology/reality-graph"
+  }
+}

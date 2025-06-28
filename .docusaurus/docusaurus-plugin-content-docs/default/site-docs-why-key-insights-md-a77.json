@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why/key-insights",
+  "id": "why/key-insights",
+  "title": "key-insights",
+  "description": "",
+  "source": "@site/docs/why/key-insights.md",
+  "sourceDirName": "why",
+  "slug": "/why/key-insights",
+  "permalink": "/why/key-insights",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "why-for-consumers",
+    "permalink": "/why/why-for-consumers"
+  },
+  "next": {
+    "title": "history",
+    "permalink": "/why/history"
+  }
+}

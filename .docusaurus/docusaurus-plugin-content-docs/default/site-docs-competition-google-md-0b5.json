@@ -1,0 +1,23 @@
+{
+  "unversionedId": "competition/google",
+  "id": "competition/google",
+  "title": "google",
+  "description": "",
+  "source": "@site/docs/competition/google.md",
+  "sourceDirName": "competition",
+  "slug": "/competition/google",
+  "permalink": "/competition/google",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "snap",
+    "permalink": "/competition/snap"
+  },
+  "next": {
+    "title": "niantic-labs",
+    "permalink": "/competition/niantic-labs"
+  }
+}

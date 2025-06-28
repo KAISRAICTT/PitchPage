@@ -1,0 +1,23 @@
+{
+  "unversionedId": "psychology/why-tiktok-works",
+  "id": "psychology/why-tiktok-works",
+  "title": "why-tiktok-works",
+  "description": "",
+  "source": "@site/docs/psychology/why-tiktok-works.md",
+  "sourceDirName": "psychology",
+  "slug": "/psychology/why-tiktok-works",
+  "permalink": "/psychology/why-tiktok-works",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "habit-loop",
+    "permalink": "/psychology/habit-loop"
+  },
+  "next": {
+    "title": "hook-like-slot-machine",
+    "permalink": "/psychology/hook-like-slot-machine"
+  }
+}

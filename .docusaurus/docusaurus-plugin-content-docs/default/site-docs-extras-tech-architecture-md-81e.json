@@ -1,0 +1,14 @@
+{
+  "unversionedId": "extras/tech/architecture",
+  "id": "extras/tech/architecture",
+  "title": "4 Pillars",
+  "description": "1. Spatial Computing",
+  "source": "@site/docs/extras/tech/architecture.md",
+  "sourceDirName": "extras/tech",
+  "slug": "/extras/tech/architecture",
+  "permalink": "/extras/tech/architecture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why/me",
+  "id": "why/me",
+  "title": "me",
+  "description": "",
+  "source": "@site/docs/why/me.md",
+  "sourceDirName": "why",
+  "slug": "/why/me",
+  "permalink": "/why/me",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/why/"
+  },
+  "next": {
+    "title": "now",
+    "permalink": "/why/now"
+  }
+}

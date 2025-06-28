@@ -10,14 +10,5 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "mainSidebar",
-  "previous": {
-    "title": "Irreplaceable Loop",
-    "permalink": "/concept/loop"
-  },
-  "next": {
-    "title": "Revenue Streams",
-    "permalink": "/monetization/"
-  }
+  "frontMatter": {}
 }

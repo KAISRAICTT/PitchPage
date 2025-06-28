@@ -1,0 +1,23 @@
+{
+  "unversionedId": "competition/niantic-labs",
+  "id": "competition/niantic-labs",
+  "title": "niantic-labs",
+  "description": "",
+  "source": "@site/docs/competition/niantic-labs.md",
+  "sourceDirName": "competition",
+  "slug": "/competition/niantic-labs",
+  "permalink": "/competition/niantic-labs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "google",
+    "permalink": "/competition/google"
+  },
+  "next": {
+    "title": "apple",
+    "permalink": "/competition/apple"
+  }
+}

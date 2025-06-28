@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/monetization/developer-app-commissions",
+  "id": "business/monetization/developer-app-commissions",
+  "title": "developer-app-commissions",
+  "description": "",
+  "source": "@site/docs/business/monetization/developer-app-commissions.md",
+  "sourceDirName": "business/monetization",
+  "slug": "/business/monetization/developer-app-commissions",
+  "permalink": "/business/monetization/developer-app-commissions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "geofencing",
+    "permalink": "/business/monetization/geofencing"
+  },
+  "next": {
+    "title": "others",
+    "permalink": "/business/monetization/others"
+  }
+}

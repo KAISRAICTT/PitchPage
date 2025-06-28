@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/monetization/others",
+  "id": "business/monetization/others",
+  "title": "others",
+  "description": "",
+  "source": "@site/docs/business/monetization/others.md",
+  "sourceDirName": "business/monetization",
+  "slug": "/business/monetization/others",
+  "permalink": "/business/monetization/others",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "developer-app-commissions",
+    "permalink": "/business/monetization/developer-app-commissions"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/business/gtm/"
+  }
+}

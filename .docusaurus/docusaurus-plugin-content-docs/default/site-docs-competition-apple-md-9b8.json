@@ -1,0 +1,19 @@
+{
+  "unversionedId": "competition/apple",
+  "id": "competition/apple",
+  "title": "apple",
+  "description": "",
+  "source": "@site/docs/competition/apple.md",
+  "sourceDirName": "competition",
+  "slug": "/competition/apple",
+  "permalink": "/competition/apple",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "niantic-labs",
+    "permalink": "/competition/niantic-labs"
+  }
+}

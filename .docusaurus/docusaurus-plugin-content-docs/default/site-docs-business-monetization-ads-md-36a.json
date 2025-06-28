@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/monetization/ads",
+  "id": "business/monetization/ads",
+  "title": "ads",
+  "description": "",
+  "source": "@site/docs/business/monetization/ads.md",
+  "sourceDirName": "business/monetization",
+  "slug": "/business/monetization/ads",
+  "permalink": "/business/monetization/ads",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/business/monetization/"
+  },
+  "next": {
+    "title": "creator-brand-deals-commissions",
+    "permalink": "/business/monetization/creator-brand-deals-commissions"
+  }
+}

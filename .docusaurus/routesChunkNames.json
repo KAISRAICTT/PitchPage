@@ -42,43 +42,219 @@
       "plugin": "plugin---docusaurus-debug-247-efa"
     }
   },
-  "/-24b": {
+  "/-452": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-96-a-f8c"
+      "plugin": "plugin---96-a-b23"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-e22": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-c-37-4d0"
+    "content": "content---c-37-d02"
   },
-  "/concept/loop-1b3": {
+  "/business/-149": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-concept-loop-4-f-2-94b"
+    "content": "content---business-3-be-787"
   },
-  "/go-to-market/strategy-d7d": {
+  "/business/gtm/-ffd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-go-to-market-strategy-65-a-918"
+    "content": "content---business-gtm-bb-4-470"
   },
-  "/monetization/-2d4": {
+  "/business/gtm/final-4bd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-monetization-356-7c5"
+    "content": "content---business-gtm-final-78-a-bab"
   },
-  "/pitch/founder-bd5": {
+  "/business/gtm/phase0-903": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-pitch-founder-131-0ae"
+    "content": "content---business-gtm-phase-0-c-83-3d3"
   },
-  "/product/cloning-4b8": {
+  "/business/gtm/phase1-31b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-product-cloning-995-a69"
+    "content": "content---business-gtm-phase-1367-55e"
   },
-  "/tech/-e4b": {
+  "/business/gtm/phase2-637": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-a-6-c-0de"
+    "content": "content---business-gtm-phase-260-e-70f"
   },
-  "/tech/architecture-ae5": {
+  "/business/gtm/phase3-8d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-architectureaea-3b8"
+    "content": "content---business-gtm-phase-31-a-1-4d4"
+  },
+  "/business/monetization/-04b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---business-monetization-2-f-1-a1c"
+  },
+  "/business/monetization/ads-a17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---business-monetization-ads-36-a-8cd"
+  },
+  "/business/monetization/creator-brand-deals-commissions-dc4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---business-monetization-creator-brand-deals-commissions-358-7e7"
+  },
+  "/business/monetization/developer-app-commissions-64f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---business-monetization-developer-app-commissions-7-f-4-fbb"
+  },
+  "/business/monetization/geofencing-76b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---business-monetization-geofencing-2-c-7-427"
+  },
+  "/business/monetization/others-a49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---business-monetization-others-15-a-eb1"
+  },
+  "/business/tam-4c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---business-tam-8-d-6-d5c"
+  },
+  "/competition/-fb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competition-418-c0b"
+  },
+  "/competition/apple-404": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competition-apple-9-b-8-539"
+  },
+  "/competition/bytedance-136": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competition-bytedance-937-faf"
+  },
+  "/competition/google-236": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competition-google-0-b-5-e20"
+  },
+  "/competition/meta-c24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competition-meta-4-b-1-bc9"
+  },
+  "/competition/niantic-labs-8df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competition-niantic-labs-5-b-4-bb2"
+  },
+  "/competition/snap-88b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competition-snap-322-49b"
+  },
+  "/concept/features/-3c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---concept-features-f-76-dd1"
+  },
+  "/concept/features/aichat-276": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---concept-features-aichat-9-d-5-393"
+  },
+  "/concept/features/clone-eda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---concept-features-clone-957-c3e"
+  },
+  "/concept/features/explore-a43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---concept-features-explore-1-b-3-a7b"
+  },
+  "/concept/features/post-aa8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---concept-features-postb-11-bc3"
+  },
+  "/concept/impact-37c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---concept-impact-1-d-0-76f"
+  },
+  "/concept/what-e2a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---concept-what-095-aaa"
+  },
+  "/core-technology/-eb6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---core-technology-1-f-0-b72"
+  },
+  "/core-technology/ar-anchoring-c70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---core-technology-ar-anchoringaaa-605"
+  },
+  "/core-technology/edge-computation-7d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---core-technology-edge-computationcc-9-0c9"
+  },
+  "/core-technology/generative-ai-453": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---core-technology-generative-aia-35-fb3"
+  },
+  "/core-technology/reality-graph-53d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---core-technology-reality-graph-942-b0c"
+  },
+  "/extras/concept/loop-342": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extras-concept-loop-85-b-46a"
+  },
+  "/extras/go-to-market/strategy-b07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extras-go-to-market-strategy-022-5ae"
+  },
+  "/extras/monetization/-e8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extras-monetization-138-b28"
+  },
+  "/extras/pitch/founder-3b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extras-pitch-foundere-72-d68"
+  },
+  "/extras/product/cloning-5f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extras-product-cloning-058-9c0"
+  },
+  "/extras/tech/-1dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extras-tech-586-5e2"
+  },
+  "/extras/tech/architecture-9ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---extras-tech-architecture-81-e-0b7"
+  },
+  "/psychology/-da1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---psychology-5-d-4-fa9"
+  },
+  "/psychology/habit-loop-72d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---psychology-habit-loop-6-bc-d46"
+  },
+  "/psychology/hook-like-slot-machine-efb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---psychology-hook-like-slot-machineec-1-154"
+  },
+  "/psychology/why-tiktok-works-9e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---psychology-why-tiktok-works-581-8b3"
+  },
+  "/why/-e7f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---why-290-73f"
+  },
+  "/why/history-c97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---why-history-9-f-1-f6a"
+  },
+  "/why/key-insights-8bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---why-key-insightsa-77-33d"
+  },
+  "/why/me-11d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---why-meb-45-008"
+  },
+  "/why/now-932": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---why-noweb-6-11d"
+  },
+  "/why/why-for-consumers-381": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---why-why-for-consumersc-9-b-b8b"
+  },
+  "/why/why-for-creators-989": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---why-why-for-creatorscd-2-9d7"
   }
 }

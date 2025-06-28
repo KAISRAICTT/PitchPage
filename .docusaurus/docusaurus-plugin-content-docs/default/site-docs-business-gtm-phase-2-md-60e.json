@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/gtm/phase2",
+  "id": "business/gtm/phase2",
+  "title": "phase2",
+  "description": "",
+  "source": "@site/docs/business/gtm/phase2.md",
+  "sourceDirName": "business/gtm",
+  "slug": "/business/gtm/phase2",
+  "permalink": "/business/gtm/phase2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "phase1",
+    "permalink": "/business/gtm/phase1"
+  },
+  "next": {
+    "title": "phase3",
+    "permalink": "/business/gtm/phase3"
+  }
+}

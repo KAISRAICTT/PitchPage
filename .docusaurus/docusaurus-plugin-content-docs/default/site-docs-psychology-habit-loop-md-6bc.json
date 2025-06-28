@@ -1,0 +1,23 @@
+{
+  "unversionedId": "psychology/habit-loop",
+  "id": "psychology/habit-loop",
+  "title": "habit-loop",
+  "description": "",
+  "source": "@site/docs/psychology/habit-loop.md",
+  "sourceDirName": "psychology",
+  "slug": "/psychology/habit-loop",
+  "permalink": "/psychology/habit-loop",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/psychology/"
+  },
+  "next": {
+    "title": "why-tiktok-works",
+    "permalink": "/psychology/why-tiktok-works"
+  }
+}

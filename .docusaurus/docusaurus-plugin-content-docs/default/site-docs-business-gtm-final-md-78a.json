@@ -1,0 +1,23 @@
+{
+  "unversionedId": "business/gtm/final",
+  "id": "business/gtm/final",
+  "title": "final",
+  "description": "",
+  "source": "@site/docs/business/gtm/final.md",
+  "sourceDirName": "business/gtm",
+  "slug": "/business/gtm/final",
+  "permalink": "/business/gtm/final",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "phase3",
+    "permalink": "/business/gtm/phase3"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/competition/"
+  }
+}

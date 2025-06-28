@@ -10,14 +10,5 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "mainSidebar",
-  "previous": {
-    "title": "GTM Strategy",
-    "permalink": "/go-to-market/strategy"
-  },
-  "next": {
-    "title": "Why Me",
-    "permalink": "/pitch/founder"
-  }
+  "frontMatter": {}
 }

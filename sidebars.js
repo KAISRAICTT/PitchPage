@@ -56,6 +56,7 @@ module.exports = {
         'psychology/habit-loop',
         'psychology/why-tiktok-works',
         'psychology/hook-like-slot-machine',
+        'psychology/no-gimmick-policy',
       ],
     },
     {
